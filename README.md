@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c2/2c/19/c22c19cc168d733849b69c70d19167f0.gif" width="800"/>
+  <img src="https://i.pinimg.com/originals/c0/3b/48/c03b481ee498fd40503a67457ee404ca.gif" width="800"/>
 </p>
 
 # 🕹️ <span style="font-family: 'Press Start 2P', cursive;">Marc Christian C. Delos Santos</span> 
