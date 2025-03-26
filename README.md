@@ -39,7 +39,7 @@ I'm a passionate developer who loves creating projects and exploring tech!
 
 <p align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcDLS&show_icons=true&theme=tokyonight" />  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcDLS&theme=tokyonight" />  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=MarcDLS&theme=tokyonight" />  
 </p>
 
 ## 🛠️ Tech Stack
